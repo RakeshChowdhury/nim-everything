@@ -1,0 +1,11 @@
+[book]
+language = "en"
+multilingual = false
+src = "pages"
+title = "Nim Everything"
+authors = ["RakeshChowdhury"]
+description = "A Nim Notebook to note down my nim projects and nim learnt"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "ayu"
